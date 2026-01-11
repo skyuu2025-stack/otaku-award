@@ -1,0 +1,7 @@
+{
+  "name": "Otaku Award 2026",
+  "description": "A decentralized anime design competition platform featuring E2E encryption, community voting (70%), and expert judging (30%). Winners get a spot at Bangkok Anime Fashion Week 2026 and a verified NFT medal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
